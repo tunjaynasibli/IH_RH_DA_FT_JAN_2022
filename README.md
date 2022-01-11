@@ -8,7 +8,7 @@
 
 ---
 
-**Day 2**
+**Wednesday**
 
 
 <table>
@@ -25,7 +25,7 @@
    </td>
    <td>11:40 - 13:00
    </td>
-   <td>13:00 - 14:00
+   <td>13:00 - 14:15
    </td>
    <td>14:15 - 18:00
    </td>
@@ -62,6 +62,16 @@
   <tr>
    <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 1</strong></h2>
 <p>
+<strong>Week 1 | Day3 `s Key Objectives:</strong>
+<ul>
+
+<li>Python functions
+
+<li>Python List comprehension
+
+<li>Pre-work review
+
+<p>
 <strong>Week 1 | Day2 `s Key Objectives:</strong>
 <ul>
 
@@ -88,18 +98,20 @@
 </ul>
 </li>
 </ul>
+</li>
+</ul>
    </td>
   </tr>
   <tr>
-   <td><strong>Day 1</strong>
+   <td><strong>Monday</strong>
    </td>
-   <td><strong>Day 2</strong>
+   <td><strong>Tuesday</strong>
    </td>
-   <td><strong>Day 3</strong>
+   <td><strong>Wednesday</strong>
    </td>
-   <td><strong>Day 4</strong>
+   <td><strong>Thursday</strong>
    </td>
-   <td><strong>Day 5</strong>
+   <td><strong>Friday</strong>
 <p>
 It is Friday!! 🥳😎✌️
 <p>
