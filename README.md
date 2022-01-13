@@ -8,7 +8,7 @@
 
 ---
 
-**Wednesday**
+**Thursday**
 
 
 <table>
@@ -62,6 +62,18 @@
   <tr>
    <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 1</strong></h2>
 <p>
+<strong>Week 1 | Day4 `s Key Objectives:</strong>
+<ul>
+
+<li>Programming Tips and coding efficiency.
+
+<li>Lambda functions.
+
+<li>Data Analysis Intro and Process
+
+<li>Numpy Arrays
+
+<p>
 <strong>Week 1 | Day3 `s Key Objectives:</strong>
 <ul>
 
@@ -94,6 +106,8 @@
 <li>Git & GitHub
 
 <li>Jupyter Notebooks and Markdown
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -215,11 +229,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Numpy/Notebook_Code_Along_Numpy_%20Structure.ipynb">[Notebook] Numpy Arrays</a>
 <p>
-[Lab] Data Gathering
+Data Gathering
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Numpy/Labs/Lab_100_Numpy_exercises_with_hints.md">[Lab] Numpy Arrays</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Numpy/Labs/Lab_Numpy_exercises_with_hints.md">[Lab] Numpy Arrays</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1HFfUSfhowaFVw277Vnqg4u1XNXEpJVaH/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Map</a>
 <p>
