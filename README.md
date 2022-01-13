@@ -1,4 +1,25 @@
-<!-- Yay, no errors, warnings, or alerts! -->
+<!-----
+
+Yay, no errors, warnings, or alerts!
+
+Conversion time: 2.683 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β33
+* Thu Jan 13 2022 04:41:40 GMT-0800 (PST)
+* Source doc: Index_Jan_2022
+* Tables are currently converted to HTML tables.
+----->
+
 
 <div align="center">
 
@@ -227,9 +248,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Numpy/Notebook_Code_Along_Numpy_%20Structure.ipynb">[Notebook] Numpy Arrays</a>
-<p>
-Data Gathering
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Numpy/Notebook_Code_Along_Numpy.ipynb">[Notebook] Numpy Arrays</a>
 <p>
 <br>
 <p>
