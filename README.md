@@ -2,7 +2,7 @@
 
 Yay, no errors, warnings, or alerts!
 
-Conversion time: 2.683 seconds.
+Conversion time: 2.761 seconds.
 
 
 Using this Markdown file:
@@ -15,7 +15,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β33
-* Thu Jan 13 2022 04:41:40 GMT-0800 (PST)
+* Thu Jan 13 2022 11:16:21 GMT-0800 (PST)
 * Source doc: Index_Jan_2022
 * Tables are currently converted to HTML tables.
 ----->
@@ -29,7 +29,7 @@ Conversion notes:
 
 ---
 
-**Thursday**
+**Friday**
 
 
 <table>
@@ -83,6 +83,16 @@ Conversion notes:
   <tr>
    <td colspan="5" > <h2>📅 &nbsp;  <strong>Week 1</strong></h2>
 <p>
+<strong>Week 1 | Day5 `s Key Objectives:</strong>
+<ul>
+
+<li>Map function
+
+<li>Intro to Pandas.
+
+<li>Weekly Recap
+
+<p>
 <strong>Week 1 | Day4 `s Key Objectives:</strong>
 <ul>
 
@@ -127,6 +137,8 @@ Conversion notes:
 <li>Git & GitHub
 
 <li>Jupyter Notebooks and Markdown
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -268,7 +280,7 @@ It is Friday!! 🥳😎✌️
 <p>
 Weekly Retro
 <p>
-<a href="https://www.machinelearningplus.com/python/101-pandas-exercises-python/">[Lab] Pandas Exercises</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/tree/main/Class_Materials/Pandas/Labs">[Lab] Pandas Exercises</a>
    </td>
   </tr>
 </table>
