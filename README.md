@@ -145,7 +145,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Structure.ipynb">[Code_Along] Healthcare For All Case Study</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare For_All_Data_Cleaning.ipynb">[Code_Along] Healthcare For All Case Study</a>
 <p>
 <br>
 <p>
