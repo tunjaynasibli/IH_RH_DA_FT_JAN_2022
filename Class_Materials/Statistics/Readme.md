@@ -1,5 +1,6 @@
 ## Useful Resources
 - https://baselinesupport.campuslabs.com/hc/en-us/articles/204305665-Types-of-Descriptive-Statistics 
+- https://medium.com/@seema.singh/why-correlation-does-not-imply-causation-5b99790df07e
 - https://aegis4048.github.io/transforming-non-normal-distribution-to-normal-distribution
 - https://www.jmp.com/en_us/statistics-knowledge-portal/what-is-regression/simple-linear-regression-assumptions.html
 - https://machinelearningmastery.com/chi-squared-test-for-machine-learning/
