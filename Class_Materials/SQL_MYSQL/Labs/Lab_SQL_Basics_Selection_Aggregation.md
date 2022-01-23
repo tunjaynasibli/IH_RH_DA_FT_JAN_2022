@@ -177,7 +177,7 @@ Expected result:
 233247	981111	VYDAJ	851
 233175	981107	VYDAJ	204
 ```
-
+# Optional
 ### Query 13
 
 In the `client` table, of all districts with a `district_id` lower than 10, how many clients are from each `district_id`? Show the results sorted by the `district_id` in ascending order.
@@ -207,7 +207,6 @@ classic	659
 junior	145
 gold	88
 ```
-# Optional
 ### Query 15
 
 Using the `loan` table, print the top 10 `account_id`s based on the sum of all of their loan amounts.
