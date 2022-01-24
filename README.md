@@ -137,9 +137,7 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://docs.google.com/presentation/d/1qac6LM0Jd_S-nWrt_YQb06t1M7r4yMhG/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
-<p>
-<a href="https://docs.google.com/presentation/d/1XsMmkfMPSRRcdXdU-iVPW-Wg6fR_nOgi/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Relational Databases</a>
+   <td><a href="https://docs.google.com/presentation/d/1XsMmkfMPSRRcdXdU-iVPW-Wg6fR_nOgi/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Relational Databases</a>
 <p>
 <br>
 <p>
@@ -149,9 +147,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Basics_Selection_Aggregation.md">[LAB] Lab | SQL Queries</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1Xbe7J-rbWzFc3qHQ-vFLh4jD1Ka8ZN76/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
-<p>
-<a href="https://docs.google.com/presentation/d/1burXmoOVmjlhzUl_OEXaC3zo3j4HxIeq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Joins & ERD</a>
+   <td><a href="https://docs.google.com/presentation/d/1Xbe7J-rbWzFc3qHQ-vFLh4jD1Ka8ZN76/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Joins & ERD</a>
 <p>
 <br>
 <p>
@@ -183,9 +179,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Subqueries.md">[Lab] SQL Sub Queries</a>
    </td>
-   <td><a href="https://docs.google.com/presentation/d/1XWF1Cyc9IwF0azBmahu0qE6Gb8WhJKl2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
-<p>
-<a href="https://docs.google.com/presentation/d/1vZnoHc3q5ojNnKHaFwuTK7j7VLZ99sm7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Data Warehousing</a>
+   <td><a href="https://docs.google.com/presentation/d/1XWF1Cyc9IwF0azBmahu0qE6Gb8WhJKl2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Warehousing</a>
 <p>
 <br>
 <p>
@@ -193,7 +187,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1vHxq5-hU3gSxAG9Vkm8oby5_esDxCMvf/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Visualisation</a>
+<a href="https://docs.google.com/presentation/d/1vHxq5-hU3gSxAG9Vkm8oby5_esDxCMvf/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Visualization</a>
 <p>
 <br>
 <p>
@@ -748,7 +742,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Decision_Trees</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_AUG_2021/blob/main/Class%20Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Decision_Trees</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1e67Y9z4F_Wr1UmeoYp0FvaUdMF6zCPjF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation ] Cross Validation</a>
 <p>
@@ -1227,7 +1221,7 @@ It is Friday!! 🥳😎✌️
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Notebook_Code_Along_Matplotlib_Seaborn_Complete.ipynb">[Notebook] EDA with plotting</a>
-<p>
+<p>IH_RH_DA_FT_JAN_2022
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Matplotlib.pdf">[Cheat Sheet] Matplotlib</a>
