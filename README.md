@@ -137,7 +137,7 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://docs.google.com/presentation/d/1qac6LM0Jd_S-nWrt_YQb06t1M7r4yMhG/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
+   <td><a href="https://docs.google.com/presentation/d/1XsMmkfMPSRRcdXdU-iVPW-Wg6fR_nOgi/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
 <p>
 <a href="https://docs.google.com/presentation/d/1XsMmkfMPSRRcdXdU-iVPW-Wg6fR_nOgi/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Relational Databases</a>
 <p>
@@ -151,7 +151,7 @@ It is Friday!! 🥳😎✌️
    </td>
    <td><a href="https://docs.google.com/presentation/d/1Xbe7J-rbWzFc3qHQ-vFLh4jD1Ka8ZN76/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
 <p>
-<a href="https://docs.google.com/presentation/d/1burXmoOVmjlhzUl_OEXaC3zo3j4HxIeq/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Joins & ERD</a>
+<a href="https://docs.google.com/presentation/d/1Xbe7J-rbWzFc3qHQ-vFLh4jD1Ka8ZN76/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Joins & ERD</a>
 <p>
 <br>
 <p>
@@ -185,7 +185,7 @@ It is Friday!! 🥳😎✌️
    </td>
    <td><a href="https://docs.google.com/presentation/d/1XWF1Cyc9IwF0azBmahu0qE6Gb8WhJKl2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation]</a>
 <p>
-<a href="https://docs.google.com/presentation/d/1vZnoHc3q5ojNnKHaFwuTK7j7VLZ99sm7/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Data Warehousing</a>
+<a href="https://docs.google.com/presentation/d/1XWF1Cyc9IwF0azBmahu0qE6Gb8WhJKl2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Data Warehousing</a>
 <p>
 <br>
 <p>
