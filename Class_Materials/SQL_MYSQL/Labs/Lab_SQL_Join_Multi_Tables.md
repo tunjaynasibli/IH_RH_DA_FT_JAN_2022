@@ -9,7 +9,7 @@ In this lab, you will be using the [Sakila](https://dev.mysql.com/doc/sakila/en/
 1. Write a query to display for each store its store ID, city, and country.
 2. Write a query to display how much business, in dollars, each store brought in.
 3. What is the average running time(length) of films by category?
-4. Which film categories are longest(length)?
+4. Which film categories are longest(length)? Hint: You can depend on question 3 output.
 5. Display the most frequently(number of times) rented movies in descending order.
 6. List the top five genres in gross revenue in descending order.
 7. Is "Academy Dinosaur" available for rent from Store 1?
