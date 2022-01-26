@@ -9,6 +9,8 @@
 + https://help.tableau.com/v2021.2/public/desktop/en-us/datasource_multitable_normalized.htm
 + https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_create.htm
 + https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_create.htm
++ https://www.tableau.com/learn/certification/certified-data-analyst
++ https://www.tableau.com/learn/training/specialist-certification-prep?utm_campaign=Nurture-CUST-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_campaign_id=2020204&utm_language=EN&utm_country=PAN-EMEA&adgroup=&adused=&creative=&gclid=Cj0KCQiA_8OPBhDtARIsAKQu0gY2L6EQsHNldyP2VnzJ656-W41vhh98-0d-wH1C6zQoNLjI_gBRgGoaAp-fEALw_wcB&gclsrc=aw.ds
 + https://www.storytellingwithdata.com/blog
 + https://informationisbeautiful.net/
 + https://data36.com/presentation-tips-for-data-professionals/
