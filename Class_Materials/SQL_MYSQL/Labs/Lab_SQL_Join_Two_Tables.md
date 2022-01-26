@@ -16,6 +16,6 @@ The database is structured as follows:
 5. Display the total amount rung up by each staff member in August of 2005.
 6. List each film and the number of actors who are listed for that film.
 7. Using the tables `payment` and `customer` and the JOIN command, list the total paid by each customer. List the customers alphabetically by last name.
-**Bonus**: Which is the most rented film?
+- **Optional**: Which is the most rented film?
 The answer is Bucket Brotherhood
 This query might require using more than one join statement. Give it a try.
