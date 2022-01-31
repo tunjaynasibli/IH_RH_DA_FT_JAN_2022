@@ -1,6 +1,6 @@
 # Activites List
 
-### Activity 1
+### Activity 1.  ## Done
 
 - Aggregate data into one Data Frame using Pandas.
 - Standardizing header names
@@ -9,19 +9,19 @@
 - Filtering data and Correcting typos – Filter the data in state and gender column to standardize the texts in those columns
 - Removing duplicates
 - Replacing null values – Replace missing values with means of the column (for numerical columns)
-
-### Activity 2
+ 
+### Activity 2.   ## Done
 
 - Bucketing the data - Write a function to replace column "State" to different zones. California as West Region, Oregon as North West, and Washington as East, and Arizona and Nevada as Central
 - Standardizing the data – Use string functions to standardize the text data (lower case)
 
-### Activity 3
+### Activity 3.  # Done
 
 - Which columns are numerical?
 - Which columns are categorical?
 - Datetime format - Extract the months from the dataset and store in a separate column. Then filter the data to show only the information for the first quarter , ie. January, February and March. Hint: If data from March does not exist, consider only January and February.
 
-### Activity 4
+### Activity 4.   # Done
 
 - Get the numeric data into dataframe called `numerical` and categorical columns in a dataframe called `categoricals`.
 (You can use np.number and np.object to select the numerical data types and categorical data types respectively)
@@ -32,7 +32,7 @@
 - For the numerical variables, check the multicollinearity between the features. Please note that we will use the column `total_claim_amount` later as the target variable.
 - Drop one of the two features that show a high correlation between them (greater than 0.9). If there is no pair of features that have a high correlation, then do not drop any features.
 
-### Activity 5
+### Activity 5.   # Done
 
 - Show a plot of the total number of responses.
 - Show a plot of the response rate by the sales channel.
