@@ -1,6 +1,6 @@
 # Activites List
 
-### Activity 1.  ## Done
+### Activity 1.  # Done
 
 - Aggregate data into one Data Frame using Pandas.
 - Standardizing header names
@@ -10,7 +10,7 @@
 - Removing duplicates
 - Replacing null values – Replace missing values with means of the column (for numerical columns)
  
-### Activity 2.   ## Done
+### Activity 2.   # Done
 
 - Bucketing the data - Write a function to replace column "State" to different zones. California as West Region, Oregon as North West, and Washington as East, and Arizona and Nevada as Central
 - Standardizing the data – Use string functions to standardize the text data (lower case)
