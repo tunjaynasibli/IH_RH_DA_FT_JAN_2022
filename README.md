@@ -1240,7 +1240,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1vHxq5-hU3gSxAG9Vkm8oby5_esDxCMvf/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Visualization</a>
+<a href="https://docs.google.com/presentation/d/1SGiHOxZ0IjS_OMiwNUk1x8XJC6EEmbEi/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Visualization</a>
 <p>
 <br>
 <p>
