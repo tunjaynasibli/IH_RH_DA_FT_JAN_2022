@@ -10,7 +10,7 @@ Using Super store Data set [Data](https://github.com/raafat-hantoush/IH_RH_DA_FT
 - show the quarterly sales over years
 - show the quarterly profit over years
 - optional: profit margin(%) drilled down by sub-category
-- top 3 most profitable "corporate" customers.
+- top 3 most profitable "corporate" customers. (Hint: check the option "add to context" on filters. This option tells Tableau that the "contextual" filter should be applied before any other filter).
 - top 3 most profitable product sub categories in every region.
 - (optional): show the return rate(orders returned) by sub-category by region
 - (optional): any chart/s that you may think that can show an important insight/pattern about the business performance. 
