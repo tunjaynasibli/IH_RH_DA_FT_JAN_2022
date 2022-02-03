@@ -58,7 +58,7 @@
 
 <table>
   <tr>
-   <td colspan="5" ><strong>Week 4</strong>
+   <td colspan="5" ><h2>📅 &nbsp;  <strong>Week 4</strong></h2>
 <p>
 <strong>Week 4 | Day 5 `s Learning Objectives:</strong>
 <ul>
@@ -71,9 +71,13 @@
 <strong>Week 4 | Day 4 `s Learning Objectives:</strong>
 <ul>
 
-<li>Hypothesis Testing
-
 <li>Model Validation
+
+<li>Revist StandardScaler fit and transform functions
+
+<li>Using the model to predict on a new unseen record..
+
+<li>Hypothesis Testing
 
 <p>
 <strong>Week 4 | Day 3 `s Learning Objectives:</strong>
@@ -157,7 +161,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Structure.ipynb">[Notebook] Linear Regression</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Modeling.ipynb">[Notebook] Linear Regression</a>
 <p>
 <br>
 <p>
@@ -167,7 +171,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Structure.ipynb">[Notebook] Linear Regression</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Modeling.ipynb">[Notebook] Linear Regression</a>
 <p>
 <br>
 <p>
@@ -234,9 +238,9 @@ Weekly Retro
 
 <table>
   <tr>
-   <td colspan="5" ><strong>Week 5</strong>
+   <td colspan="5" ><h2>📅 &nbsp;  <strong>Week 5</strong></h2>
 <p>
-<strong>Mid-Term Project</strong>
+                                                        <h2>📅 &nbsp;  <strong>Mid-Term Project</strong></h2>
    </td>
   </tr>
   <tr>
@@ -289,7 +293,7 @@ It is Friday!! 🥳😎✌️
 
 <table>
   <tr>
-   <td colspan="5" ><strong><h1>Week 6</h1></strong>
+   <td colspan="5" ><strong><h2>Week 6</h2></strong>
 <p>
 <strong>Week 6 | Day 4 `s Learning Objectives:</strong>
 <ul>
@@ -443,7 +447,7 @@ It is Friday!! 🥳😎✌️
 
 <table>
   <tr>
-   <td colspan="5" ><strong><h1>Week 7</h1></strong>
+   <td colspan="5" ><strong><h2>Week 7</h2></strong>
 <p>
 <strong>Week 7 | Day 5 `s Learning Objectives:</strong>
 <ul>
@@ -635,7 +639,7 @@ It is Friday!! 🥳😎✌️
 
 <table>
   <tr>
-   <td colspan="5" ><strong>Week 8</strong>
+   <td colspan="5" ><strong><h2>Week 8</h2></strong>
 <p>
 <strong>Week 8 | Day 2 `s Learning Objectives:</strong>
 <ul>
@@ -1113,7 +1117,7 @@ Weekly Retro
 
 <table>
   <tr>
-   <td colspan="5" ><strong>Week 3</strong>
+   <td colspan="5" ><h2>📅 &nbsp;  <strong>Week 3</strong></h2>
 <p>
 <strong>Week 3 | Day 5 `s Learning Objectives:</strong>
 <ul>
@@ -1285,3 +1289,4 @@ Weekly Retro
 
 
 </details>
+IH_RH_DA_FT_JAN_2022
