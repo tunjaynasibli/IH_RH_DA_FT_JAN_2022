@@ -5,7 +5,7 @@
 - Aggregate data into one Data Frame using Pandas.
 - Standardizing header names
 - Deleting and rearranging columns – delete the column customer as it is only a unique identifier for each row of data
-- Working with data types – Check the data types of all the columns and fix the incorrect ones (for ex. customer lifetime value and number of complaints )
+- Working with data types – Check the data types of all the columns and fix the incorrect ones (for ex. customer lifetime value and number of complaints ). remove the percentage from the customer lifetime value and truncate it to an integer value.
 - Filtering data and Correcting typos – Filter the data in state and gender column to standardize the texts in those columns
 - Removing duplicates
 - Replacing null values – Replace missing values with means of the column (for numerical columns)
