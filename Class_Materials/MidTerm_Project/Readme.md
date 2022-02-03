@@ -1,8 +1,8 @@
 ## Mid Term Project
 
 The students can decide on their Midterm project to work on one of these two options:
-1. Modeling prject: provided Real estate modeling project (see the project folder). You can work on another project that you choose.
-2. Business Intelligence Project: provided Olist Business Intellegince Project(see the project folder). You can work on another project that you choose.
+1. Modeling project: Real estate modeling project (see the project folder). You can work on another project that you choose.
+2. Business Intelligence Project: Olist Business Intellegince Project(see the project folder). You can work on another project that you choose.
 
 ### Rules:
 - Group of maximum of two people per project. Eventhough it is not recommended, you can work alone on the project.
