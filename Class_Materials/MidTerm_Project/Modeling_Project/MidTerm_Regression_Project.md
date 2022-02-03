@@ -29,4 +29,4 @@ You can  also use tableau to visually explore the data further.
 
 ### Model
 
-Use different models to compare the accuracies and find the model that best fits your data. You can use the measures of accuracies that have been discussed in class. Please note that while comparing different models, make sure you use the same measure of accuracy as a benchmark.
+Build a regression model that best fits your data. You can use the measures of accuracies that have been discussed in class.
