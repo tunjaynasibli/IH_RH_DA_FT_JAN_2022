@@ -55,182 +55,6 @@
 
 **👉 **&nbsp;** Table of Contents**
 
-
-<table>
-  <tr>
-   <td colspan="5" ><h2>📅 &nbsp;  <strong>Week 4</strong></h2>
-<p>
-<strong>Week 4 | Day 5 `s Learning Objectives:</strong>
-<ul>
-
-<li>Hypothesis Testing - Two Sample Test
-
-<li>Recap
-
-<p>
-<strong>Week 4 | Day 4 `s Learning Objectives:</strong>
-<ul>
-
-<li>Model Validation
-
-<li>Revist StandardScaler fit and transform functions
-
-<li>Using the model to predict on a new unseen record..
-
-<li>Hypothesis Testing
-
-<p>
-<strong>Week 4 | Day 3 `s Learning Objectives:</strong>
-<ul>
-
-<li>Linear Regression.
-
-<li>Model Validation.
-
-<p>
-<strong>Week 4 | Day 2 `s Learning Objectives:</strong>
-<ul>
-
-<li>Linear Regression.
-
-<li>Model Validation.
-
-<p>
-<strong>Week 4 | Day 1 `s Learning Objectives:</strong>
-<ul>
-
-<li>Storytelling with Data
-
-<li>MongoDB
-
-<li>Machine Learning Intro.
-
-<li>Distributions.
-
-<li>Data Transformation.
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Monday</strong>
-   </td>
-   <td><strong>Tuesday</strong>
-   </td>
-   <td><strong>Wednesday</strong>
-   </td>
-   <td><strong>Thursday</strong>
-   </td>
-   <td><strong>Friday</strong>
-<p>
-It is Friday!! 🥳😎✌️
-   </td>
-  </tr>
-  <tr>
-   <td>[Demo] No-SQL Databases MongoDB
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1S8hwEcbKEzIf3MNy3_hNMseoL1n36QBQ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Storytelling with Data]</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1dkb0rPzvdfzDiuWe0aDHOGDWPAzJP7HK/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Machine Learning</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1Py8kpOHCRXQmSqZDPW6fj6TtVkKccIQ2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Probability Distributions</a> 
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1fcgx15uusacOCiUTsrpKucvtE3zG_USr/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Processing</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Transformation.md">[LAB] Lab | Data Transformation</a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Linear Regression</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Modeling.ipynb">[Notebook] Linear Regression</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Lab | Model Fitting and Evaluating</a>
-   </td>
-   <td><a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Improving Model Accuracy</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Modeling.ipynb">[Notebook] Linear Regression</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
-   </td>
-   <td>[Guest Speaker]
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1PpVZeAFwRi7TzhU2NzylT63HmfTfcEte/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Sampling Distributions </a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1PrlLO9eH7x8B89YK7F8izNWDsrdhP_6A/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Hypothesis Testing</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Statistics/Notebook_Code_Along_Hypothesis_Testing_Structure.ipynb">[Notebook] Hypothesis One Sample Test</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
-   </td>
-   <td><a href="https://kahoot.it/">Kahoot</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1QmyUbDrtwyG5uyORoQtQp9zD5h4Ika5U/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Two Sample T-Test</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Statistics/Notebook_Code_Along_Statistics_Hypothesis_Testing_With_2_Samples_Structure.ipynb">[Notebook] Hypothesis Two Sample Test</a>
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1hVVTG8q2wVI71GacjcYTMsZvQB43C1_KCRgednRyg6g/edit?usp=sharing">Weekly Recap</a>
-<p>
-<br>
-<p>
-Weekly Retro
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/tree/main/Class_Materials/MidTerm_Project">Midterm Project Intro/ Briefing</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
-   </td>
-  </tr>
-</table>
-
-
-</details>
-
 <details>
 
 <summary>📅  &nbsp; Week 5 - Mid Term Project </summary>
@@ -1283,6 +1107,186 @@ Weekly Retro
 <br>
 <p>
 <a href="https://public.tableau.com/de-de/s/interactive-resume-gallery">[Lab] [Optional] Resume using Tableau  </a>
+   </td>
+  </tr>
+</table>
+
+
+</details>
+
+<details>
+
+<summary>📅  &nbsp; Week 4 - Regression, Hypothesis Testing</summary>
+
+
+<table>
+  <tr>
+   <td colspan="5" ><h2>📅 &nbsp;  <strong>Week 4</strong></h2>
+<p>
+<strong>Week 4 | Day 5 `s Learning Objectives:</strong>
+<ul>
+
+<li>Hypothesis Testing - Two Sample Test
+
+<li>Recap
+
+<p>
+<strong>Week 4 | Day 4 `s Learning Objectives:</strong>
+<ul>
+
+<li>Model Validation
+
+<li>Revist StandardScaler fit and transform functions
+
+<li>Using the model to predict on a new unseen record..
+
+<li>Hypothesis Testing
+
+<p>
+<strong>Week 4 | Day 3 `s Learning Objectives:</strong>
+<ul>
+
+<li>Linear Regression.
+
+<li>Model Validation.
+
+<p>
+<strong>Week 4 | Day 2 `s Learning Objectives:</strong>
+<ul>
+
+<li>Linear Regression.
+
+<li>Model Validation.
+
+<p>
+<strong>Week 4 | Day 1 `s Learning Objectives:</strong>
+<ul>
+
+<li>Storytelling with Data
+
+<li>MongoDB
+
+<li>Machine Learning Intro.
+
+<li>Distributions.
+
+<li>Data Transformation.
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Monday</strong>
+   </td>
+   <td><strong>Tuesday</strong>
+   </td>
+   <td><strong>Wednesday</strong>
+   </td>
+   <td><strong>Thursday</strong>
+   </td>
+   <td><strong>Friday</strong>
+<p>
+It is Friday!! 🥳😎✌️
+   </td>
+  </tr>
+  <tr>
+   <td>[Demo] No-SQL Databases MongoDB
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1S8hwEcbKEzIf3MNy3_hNMseoL1n36QBQ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Storytelling with Data]</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1dkb0rPzvdfzDiuWe0aDHOGDWPAzJP7HK/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Intro to Machine Learning</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1Py8kpOHCRXQmSqZDPW6fj6TtVkKccIQ2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Probability Distributions</a> 
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1fcgx15uusacOCiUTsrpKucvtE3zG_USr/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Processing</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Transformation.md">[LAB] Lab | Data Transformation</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Linear Regression</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Modeling.ipynb">[Notebook] Linear Regression</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Lab | Model Fitting and Evaluating</a>
+   </td>
+   <td><a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Improving Model Accuracy</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Modeling.ipynb">[Notebook] Linear Regression</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
+   </td>
+   <td>[Guest Speaker]
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1PpVZeAFwRi7TzhU2NzylT63HmfTfcEte/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Sampling Distributions </a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1PrlLO9eH7x8B89YK7F8izNWDsrdhP_6A/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Hypothesis Testing</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Statistics/Notebook_Code_Along_Hypothesis_Testing_Structure.ipynb">[Notebook] Hypothesis One Sample Test</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
+   </td>
+   <td><a href="https://kahoot.it/">Kahoot</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1QmyUbDrtwyG5uyORoQtQp9zD5h4Ika5U/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Two Sample T-Test</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Statistics/Notebook_Code_Along_Statistics_Hypothesis_Testing_With_2_Samples_Structure.ipynb">[Notebook] Hypothesis Two Sample Test</a>
+<p>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1hVVTG8q2wVI71GacjcYTMsZvQB43C1_KCRgednRyg6g/edit?usp=sharing">Weekly Recap</a>
+<p>
+<br>
+<p>
+Weekly Retro
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/tree/main/Class_Materials/MidTerm_Project">Midterm Project Intro/ Briefing</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
    </td>
   </tr>
 </table>
