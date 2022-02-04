@@ -1,4 +1,25 @@
-<!-- Yay, no errors, warnings, or alerts! -->
+<!-----
+
+Yay, no errors, warnings, or alerts!
+
+Conversion time: 3.091 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β33
+* Fri Feb 04 2022 05:57:52 GMT-0800 (PST)
+* Source doc: Index_Jan_2022
+* Tables are currently converted to HTML tables.
+----->
+
 
 <div align="center">
 
@@ -896,7 +917,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Structure.ipynb">[Code_Along] Data_Pipelining</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Complete.ipynb">[Code_Along] Data_Pipelining</a>
 <p>
 <br>
 <p>
@@ -1136,7 +1157,7 @@ Weekly Retro
 
 <li>Model Validation
 
-<li>Revist StandardScaler fit and transform functions
+<li>Revisit StandardScaler fit and transform functions
 
 <li>Using the model to predict on a new unseen record..
 
