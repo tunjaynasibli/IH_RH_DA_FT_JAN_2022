@@ -38,7 +38,7 @@ Notes:
   +  checking the data type of the target variable(in case of modeling project)
   +  Also  in case of multiple tables or csv files, make sure that the data is joinable( meaning having matching keys to join the data between these tables).
   +  (for the modeling project) Important: checking if the target variable is a continuous(numerical) variable(then it is a regression task)  or it is discrete(categorical) then it is a classification task. 
-  +  (for the BI project), you 
+  +  (for the BI project), you dont need to include every single chart you could think of, you have to prioritize the most important patterns/insights that add value to the end user and helps you in telling the data story.
 
 ### Useful Resources
 - https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67
