@@ -41,6 +41,12 @@ Notes:
   +  (for the BI project), you dont need to include every single chart you could think of, you have to prioritize the most important patterns/insights that add value to the end user and helps you in telling the data story.
 
 ### Useful Resources
+- Data sources examples:
+  + https://www.kaggle.com/datasets
+  + https://archive.ics.uci.edu/ml/index.php
+  + https://www.data.gov/
 - https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67
 - https://alum.mit.edu/best-practices-powerpoint-presentations
 - https://www.forbes.com/sites/bryancollinseurope/2018/07/19/how-to-use-kanban-to-become-insanely-productive-a-short-guide/?sh=1c3547143c16
+
+
