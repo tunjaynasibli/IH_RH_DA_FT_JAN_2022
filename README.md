@@ -1,25 +1,4 @@
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 3.091 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Fri Feb 04 2022 05:57:52 GMT-0800 (PST)
-* Source doc: Index_Jan_2022
-* Tables are currently converted to HTML tables.
------>
-
+<!-- Yay, no errors, warnings, or alerts! -->
 
 <div align="center">
 
@@ -76,69 +55,18 @@ Conversion notes:
 
 **👉 **&nbsp;** Table of Contents**
 
-<details>
-
-<summary>📅  &nbsp; Week 5 - Mid Term Project </summary>
-
-
-<table>
-  <tr>
-   <td colspan="5" ><h2>📅 &nbsp;  <strong>Week 5</strong></h2>
-<p>
-                                                        <h2>📅 &nbsp;  <strong>Mid-Term Project</strong></h2>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Monday</strong>
-   </td>
-   <td><strong>Tuesday</strong>
-   </td>
-   <td><strong>Wednesday</strong>
-   </td>
-   <td><strong>Thursday</strong>
-   </td>
-   <td><strong>Friday</strong>
-<p>
-It is Friday!! 🥳😎✌️
-   </td>
-  </tr>
-  <tr>
-   <td>Submitting project plans
-   </td>
-   <td>Work on the project
-   </td>
-   <td>Work on the project
-   </td>
-   <td>Work on the project
-   </td>
-   <td>Work on the project
-   </td>
-  </tr>
-  <tr>
-   <td>Work on the project
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>Presentations
-   </td>
-  </tr>
-</table>
-
-
-</details>
-
-<details>
-
-<summary>📅  &nbsp; Week 6 - Song Recommender Project</summary>
-
 
 <table>
   <tr>
    <td colspan="5" ><strong><h2>Week 6</h2></strong>
+<p>
+<strong>Week 6 | Day 5 `s Learning Objectives:</strong>
+<ul>
+
+<li>Weekly Recap
+
+<li>Working on the product
+
 <p>
 <strong>Week 6 | Day 4 `s Learning Objectives:</strong>
 <ul>
@@ -180,6 +108,8 @@ It is Friday!! 🥳😎✌️
 <li>HTML, CSS
 
 <li>Beautiful Soap
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -282,8 +212,6 @@ It is Friday!! 🥳😎✌️
   </tr>
 </table>
 
-
-</details>
 
 <details>
 
@@ -1159,7 +1087,7 @@ Weekly Retro
 
 <li>Revisit StandardScaler fit and transform functions
 
-<li>Using the model to predict on a new unseen record..
+<li>Using the model to predict on a new unseen record.
 
 <li>Hypothesis Testing
 
@@ -1308,6 +1236,61 @@ Weekly Retro
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
+   </td>
+  </tr>
+</table>
+
+
+</details>
+
+<details>
+
+<summary>📅  &nbsp; Week 5 - Mid Term Project </summary>
+
+
+<table>
+  <tr>
+   <td colspan="5" ><h2>📅 &nbsp;  <strong>Week 5</strong></h2>
+<p>
+                                                        <h2>📅 &nbsp;  <strong>Mid-Term Project</strong></h2>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Monday</strong>
+   </td>
+   <td><strong>Tuesday</strong>
+   </td>
+   <td><strong>Wednesday</strong>
+   </td>
+   <td><strong>Thursday</strong>
+   </td>
+   <td><strong>Friday</strong>
+<p>
+It is Friday!! 🥳😎✌️
+   </td>
+  </tr>
+  <tr>
+   <td>Submitting project plans
+   </td>
+   <td>Work on the project
+   </td>
+   <td>Work on the project
+   </td>
+   <td>Work on the project
+   </td>
+   <td>Work on the project
+   </td>
+  </tr>
+  <tr>
+   <td>Work on the project
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>Presentations
    </td>
   </tr>
 </table>
