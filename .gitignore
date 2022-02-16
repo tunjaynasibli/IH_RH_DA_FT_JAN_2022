@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+ 
 # C extensions
 *.so
 
@@ -132,3 +132,4 @@ Class_Materials/Data_Visualization/Tableau/Data/AB_Testing_Case_Study_FinalMerge
 index_Jan_2022.gdoc
 .DS_Store
 .DS_Store
+.gitignore
